@@ -1,0 +1,13 @@
+body {
+    background-color:#faebd7;
+    
+}
+
+p {
+    width:800px;
+}
+
+#rockclimbing {
+    float:left;
+    margin:30px
+}
