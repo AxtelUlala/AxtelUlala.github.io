@@ -5,9 +5,57 @@ body {
 
 p {
     width:800px;
+    color:#00A5A5;
+    font-weight: bold;
+    font-size:large;
 }
 
-#rockclimbing {
-    float:left;
-    margin:30px
+#home_text {
+background-color:rgba(0, 135, 135,0.25);
+font-family:'Trebuchet MS';
+}
+#home_header {
+    color:rgb(0, 135, 135);
+    font-family:monospace;    
+    font-size:25px;
+}
+
+
+#javascript_header{
+    color:rgb(0,135,135);
+    font-family:monospace;
+    font-size:25px;
+}
+
+#aboutme_body{
+    background-image: url(myBackground.jpg);
+}
+#aboutme_header{
+    color:rgb(0,135,135);
+    font-family:monospace;
+    font-size:25px;
+}
+
+#aboutme_text{
+    background-color:rgba(0, 135, 135,0.3);
+font-family:'Trebuchet MS';
+clear:both;
+}
+
+#meface{
+    float:left
+}
+
+#mestand{
+    float:right;
+    width:30%;
+}
+
+#rockclimb{
+    float:left
+}
+
+#grandpa_gaming {
+    float:right;
+    width:50%;
 }
