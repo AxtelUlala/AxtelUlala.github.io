@@ -3,13 +3,6 @@ body {
     
 }
 
-p {
-    width:800px;
-    color:#00A5A5;
-    font-weight: bold;
-    font-size:large;
-}
-
 #home_text {
 background-color:rgba(0, 135, 135,0.25);
 font-family:'Trebuchet MS';
@@ -25,6 +18,13 @@ font-family:'Trebuchet MS';
     color:rgb(0,135,135);
     font-family:monospace;
     font-size:25px;
+    
+}
+
+#javascript_text {
+    background-color:rgba(0, 135, 135,0.25);
+    font-family:'Trebuchet MS';
+    max-width:800px;
 }
 
 #aboutme_body{
