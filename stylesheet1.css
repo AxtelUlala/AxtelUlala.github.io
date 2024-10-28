@@ -4,9 +4,9 @@ body {
 }
 
 #home_text {
-background-color:rgba(0, 135, 135,0.25);
-font-family:'Trebuchet MS';
-max-width:"800px"; 
+    background-color:rgba(0, 135, 135,0.25);
+    font-family:'Trebuchet MS';
+    max-width:800px;
 }
 #home_header {
     color:rgb(0, 135, 135);
